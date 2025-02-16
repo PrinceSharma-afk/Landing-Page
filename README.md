@@ -1,2 +1,2 @@
 # Landing-Page
-responsive utpo 533*642px
+responsive from xxl- 527*552px
