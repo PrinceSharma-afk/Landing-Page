@@ -1,2 +1,2 @@
 # Landing-Page
-responsive from xxl- 527*552px
+responsive from xxl- 527*578px
