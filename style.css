@@ -260,6 +260,27 @@ p{
     font-family: 'lora',serif;
     font-size: 18px;
 }
+@media (max-width: 768px) {
+   #container{
+    margin: 0%;
+   } 
+   .box4 {
+    height: 50.5%;
+    
+}
+.box2{
+    height: 49%;
+}
+
+}
+@media (max-width:600px){
+   
+    .fourth
+     {
+    border-radius: 50% / 50%; 
+    } 
+        
+}
 
 
 
