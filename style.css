@@ -261,26 +261,33 @@ p{
     font-size: 18px;
 }
 @media (max-width: 768px) {
-   #container{
-    margin: 0%;
-   } 
-   .box4 {
-    height: 50.5%;
-    
-}
-.box2{
-    height: 49%;
+    #container {
+        margin: 0%;
+    }
+
+    .box4 {
+        height: 50.5%;
+    }
+
+    .box2 {
+        height: 49%;
+    }
 }
 
+@media (min-width: 602px) {
+    .fourth {
+        border-radius: 0%; /* Reset to normal */
+        transition: all 0.3s ease-in-out;
+    }
 }
-@media (max-width:600px){
-   
-    .fourth
-     {
-    border-radius: 50% / 50%; 
-    } 
-        
+
+@media (max-width: 600px) {
+    .fourth {
+        border-radius: 50% / 50%;
+        transition: all 0.3s ease-in-out;
+    }
 }
+
 
 
 
